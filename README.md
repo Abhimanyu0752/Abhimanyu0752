@@ -3,7 +3,6 @@
 <p align="left"> <a href="https://www.linkedin.com/in/er-abhimanyu" target="blank"><img src="https://img.shields.io/badge/Linkedin-Abhimanyu-blue?style=for-the-badge&logo=linkedin" alt="Abhimanyu Dhiman" /></a> </p>
 
 ### 🌱 I’m currently learning Data Structures in Java and Backend Devolpment.
-### 🤔 I’m looking for help with Nodejs and react.
 ### 📫 How to reach me: Abhimanyu0752.cse19@chitkara.edu.in
 ### ⚡ Fun fact: Eat sleep study repeat.
           
